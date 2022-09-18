@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#David Navarro CS370 1003
 
 if [ $# == 0 ]; then
     echo "Usage: sysInfo <sys|mem|disk>"
